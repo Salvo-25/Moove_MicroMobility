@@ -1,7 +1,7 @@
 
  ## Descrizione
 
-Questo progetto è totalmente sviluppato in TypeScript. Implemeta solo le logice di un app di micro-mobilità in una metropoli.
+Questo progetto è totalmente sviluppato in TypeScript. Implemneta le logice di un app di micro-mobilità in una metropoli.
 
 ## Componenti del progetto
 
@@ -16,6 +16,6 @@ Il progetto utilizza TypeScript per definire interfacce e classi che rappresenta
 
 - **Email**  : didiosalvatore25@gmail.com
 
- **Ringraziamenti**🙌
+## **Ringraziamenti**🙌
 
 > Spero ti sia piaciuto il mio primo progetto TypeScript. Se dovessi avere domande o feedback non esitare a contattarmi.
